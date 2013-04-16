@@ -1,0 +1,21 @@
+#########################################################################
+# Copyright (c) 2011 City of Hope Beisi Xu
+# 
+# This source code is released for free distribution under the terms of the
+# GNU General Public License
+# 
+#*Author:       Beisi Xu < xubeisi [at] gmail DOT com > and Dustin E Schones
+# File Name: nucIT.py
+# Description: 
+#########################################################################
+
+1. INSTALLATION
+nucIT require Python for running, will automatically employ Pypy for better speed if found 'pypy' in PATH.
+Python 2.7.2 and PyPy 1.9.0 or higher version are recommand. To install, Run:
+
+python2.7 setup.py install --install-scripts=/home/user/nucIT # install into /home/user/nucIT
+
+
+2. RUN
+download 
+
